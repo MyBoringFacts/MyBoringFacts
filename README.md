@@ -1,7 +1,8 @@
 -  Hi,
--  I’m Boringfacts, sometimes coolfacts
--  currently learning introduction to pentesting, im still at very beginning level.
-- 📫 How to reach me ...?? interesting question. Hmmm... why would you need me? 
+-  I prefer to go by the name BoringFacts. Or just {Something}Facts.
+-  I'm a CS majored Uni student. Still learning and have to go through a lot of things.
+-  interested in cybersecurity , however having a heard time focusing on what to study. 
+-
 
 <!---
 MMVIIXXIV/MMVIIXXIV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
