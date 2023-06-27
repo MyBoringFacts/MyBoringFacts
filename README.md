@@ -1,6 +1,6 @@
 -  Hi,
 -  I prefer to go by the name BoringFacts. Or just {Something}Facts.
--  I'm a CS majored Uni student. Still learning and have to go through a lot of things.
+-  I'm a CS majored undergraduate student.I try to upload my tests files on github. Still learning and have to go through a lot of things.
 -  interested in cybersecurity , however having a heard time focusing on what to study. 
 -
 
