@@ -1,18 +1,17 @@
 <div align="center">
  
-  <h1>Hi there, I'm BoringFacts! 👋</h1>
-  <h4>On my Way of becoming an Aspiring Computer Scientist | Passionate Learner | Cybersecurity Enthusiast</h4>
-</div>
+  <h1>Hi there,welcome 👋</h1>
+  
 
 ---
 
 ### About Me
 
-I'm an enthusiastic undergraduate student majoring in Computer Science, eager to explore the ever-evolving world of technology. My journey has led me to GitHub, where I document my learning experiences, share code, and collaborate on exciting projects.
+I'm an  undergraduate student majoring in Computer Science, eager to explore the ever-evolving world of technology. 
 
 ### Current Focus
 
-🔭 I'm currently delving into the fascinating realm of cybersecurity, uncovering its intricacies and exploring ways to fortify digital landscapes against threats.
+🔭 I'm currently studying machine learning and AI.
 
 💡 Although I'm still in the process of honing my skills, I find immense joy in learning and applying new concepts. Through challenges and triumphs, I'm steadily building a foundation that will help me excel in the tech industry.
 
