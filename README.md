@@ -7,13 +7,13 @@
 
 ### About Me
 
-I'm an  undergraduate student majoring in Computer Science, eager to explore the ever-evolving world of technology. 
+I'm an  undergraduate student majoring in Computer Science
 
 ### Current Focus
 
 🔭 I'm currently studying machine learning and AI.
 
-💡 Although I'm still in the process of honing my skills, I find immense joy in learning and applying new concepts. Through challenges and triumphs, I'm steadily building a foundation that will help me excel in the tech industry.
+💡 Although I'm still in the process of improving my skills, I find  joy in learning and applying new concepts. I'm steadily building a foundation that will help me excel in the tech industry.
 
 🌱 I'm open to guidance, mentorship, and collaboration. If you have insights, resources, or advice to share, I'd be more than grateful to learn from your expertise.
 
