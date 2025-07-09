@@ -19,7 +19,7 @@ I'm an  undergraduate student majoring in Computer Science
 
 ### Get in Touch
 
-📬 You can reach out to me via [Email](mailto:mmviixxiv@gmail.com) or connect with me on [LinkedIn]([https://www.linkedin.com/in/yourlinkedinprofile](https://www.linkedin.com/in/thadoe-hein-09814124b/)) to discuss opportunities, share knowledge, or just have a tech chat!
+📬 You can reach out to me via [Email](mailto:thadoe.work@gmail.com) or connect with me on [LinkedIn]([https://www.linkedin.com/in/yourlinkedinprofile](https://www.linkedin.com/in/thadoe-hein-09814124b/)) to discuss opportunities, share knowledge, or just have a tech chat!
 
 ### Repositories
 
