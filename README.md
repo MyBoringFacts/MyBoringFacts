@@ -1,34 +1,37 @@
-<div align="center">
- 
-  <h1>Hi there,welcome 👋</h1>
-  
+# 👋 Hi, I'm Thadoe Hein  
+
+💡 **AI Engineer | Applied Machine Learning | Generalist Problem Solver**
+
+I’m a generalist who uses AI to tackle complex problems across NLP, computer vision, and automation.  
+Whenever I face a challenge, I leverage AI tools to accelerate ideation, coding, and deployment — turning ideas into working systems fast.
 
 ---
 
-### About Me
+### 🧠 What I Do
+- Design and deploy **end-to-end AI solutions** using PyTorch, HuggingFace, and AWS  
+- Build and experiment with **Retrieval-Augmented Generation (RAG)**, **face search**, and **document understanding**  
+- Automate workflows and pipelines where humans get bored and machines don’t  
+- Adapt quickly across domains — using AI as both a coding partner and an amplifier of creativity  
 
-I'm an  undergraduate student majoring in Computer Science
+---
 
-### Current Focus
+### ⚙️ My Current Toolkit
+`Python` • `LangChain` • `HuggingFace` • `PyTorch` • `Docker` • `AWS` • `Next.js`  
+*(I don’t code everything from scratch — I integrate, automate, and optimize.)*
 
-🔭 I'm currently studying machine learning and AI.
+---
 
-💡 Although I'm still in the process of improving my skills, I find  joy in learning and applying new concepts. I'm steadily building a foundation that will help me excel in the tech industry.
+### 🌍 About Me
+- B.Sc. in Computer Science, **Assumption University of Thailand** (GPA 3.69)  
+- Experience in **NLP**, **Generative AI**, **MLOps**, and **low-resource language models**  
+- I enjoy building AI systems that **actually run in production**, not just look good in papers  
 
-🌱 I'm open to guidance, mentorship, and collaboration. If you have insights, resources, or advice to share, I'd be more than grateful to learn from your expertise.
+---
 
-### Get in Touch
+### 📫 Connect
+📧 **thadoe.work@gmail.com**  
+[LinkedIn](https://linkedin.com/in/thadoe) | [GitHub](https://github.com/MyBoringFacts)
 
-📬 You can reach out to me via [Email](mailto:thadoe.work@gmail.com) or connect with me on [LinkedIn]([https://www.linkedin.com/in/yourlinkedinprofile](https://www.linkedin.com/in/thadoe-hein-09814124b/)) to discuss opportunities, share knowledge, or just have a tech chat!
+---
 
-### Repositories
-
-Browse through my repositories to explore projects, assignments, and experiments that showcase my journey in Computer Science. Your feedback and contributions are invaluable as I continue to learn and grow.
-
-### Let's Connect!
-
-I'm excited to be a part of the GitHub community, and I'm eager to connect with fellow developers, learners, and tech enthusiasts. Feel free to say hi, share insights, or collaborate on projects. Together, we can make a positive impact in the tech world!
-
-<div align="center">
-  <p>Thanks for visiting and happy coding! 🚀</p>
-</div>
+⭐ *“AI doesn’t replace me — it extends what I can do.”*
