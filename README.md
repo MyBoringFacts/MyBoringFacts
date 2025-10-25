@@ -7,11 +7,12 @@ Whenever I face a challenge, I leverage AI tools to accelerate ideation, coding,
 
 ---
 
-### 🧠 What I Do
-- Design and deploy **end-to-end AI solutions** using PyTorch, HuggingFace, and AWS  
-- Build and experiment with **Retrieval-Augmented Generation (RAG)**, **face search**, and **document understanding**  
-- Automate workflows and pipelines where humans get bored and machines don’t  
-- Adapt quickly across domains — using AI as both a coding partner and an amplifier of creativity  
+What I Do
+
+Develop and deploy end-to-end machine learning and AI systems using PyTorch, Hugging Face, and AWS
+Design and implement RAG pipelines, face recognition systems, and intelligent document processing solutions
+Build and optimize data and model pipelines for scalability, automation, and real-world deployment
+Experiment across domains — leveraging AI as a co-creator to accelerate development and innovation
 
 ---
 
@@ -23,7 +24,7 @@ Whenever I face a challenge, I leverage AI tools to accelerate ideation, coding,
 
 ### 🌍 About Me
 - B.Sc. in Computer Science, **Assumption University of Thailand** (GPA 3.69)  
-- Experience in **NLP**, **Generative AI**, **MLOps**, and **low-resource language models**  
+- Experience in **NLP**, **Generative AI**, **AIOps**, and **language models**  
 - I enjoy building AI systems that **actually run in production**, not just look good in papers  
 
 ---
